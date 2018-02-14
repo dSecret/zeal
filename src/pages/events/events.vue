@@ -18,8 +18,8 @@
                 </span>
               </v-card-text>
               <v-card-actions class="mt-0">
-                <v-btn flat dark outline>Home</v-btn>
-                <v-btn flat dark outline>Timeline</v-btn>
+                <v-btn flat dark outline to="/">Home</v-btn>
+                <v-btn flat dark outline to='/timeline'>Timeline</v-btn>
               </v-card-actions>
             </v-card>
             <v-container grid-list-md>
