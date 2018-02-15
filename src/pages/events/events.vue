@@ -1,7 +1,7 @@
 <template>
 <v-app style="background-color:lightgrey;">
     <div class="upperDiv">
-      <img src="/src/assets/zeal.jpg"/>
+      <img src="/src/assets/sportswomen1.jpg"/>
     </div>
     <div class="lowerDiv">
             <v-card color="blue-grey darken-2 mb-2" class="white--text" flat>
@@ -29,7 +29,7 @@
                   <v-card-media
                     class="white--text"
                     height="200px"
-                    src="/src/assets/zeal.jpg"
+                    src="/src/assets/Cricket1.jpg"
                   >
                     <v-container class="d-block pr-0 pl-0 pt-0 "fill-height fluid 
                                   style="display:block;"
@@ -37,8 +37,8 @@
                           <div  style="background-color:rgba(0,0,0,0.5);width:100%;"
                                 class="headline pl-3 pt-3 pb-3"
                           >Cricket<br>
-                            <span class="subheading grey--text">
-                              Are you ready to switch your Game mode!!
+                            <span class="subheading white--text">
+                              "Cricket is very simple... you play till you can sustain."
                             </span>
                           </div>
                     </v-container>
